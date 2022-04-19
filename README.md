@@ -1,2 +1,2 @@
-# resume-template
-Resume template for workshop
+# Resume Template
+
